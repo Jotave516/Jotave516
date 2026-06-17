@@ -24,9 +24,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jotave516/Jotave516/snake-output/snake.svg" alt="Snake animation" />
-
-###
